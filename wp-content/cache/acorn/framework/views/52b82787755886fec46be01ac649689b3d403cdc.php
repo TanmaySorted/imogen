@@ -1,0 +1,1 @@
+<a target="<?php echo e($target); ?>" href="<?php echo e($url); ?>" class="<?php echo e($style); ?>"><?php echo $label; ?><b></b></a><?php /**PATH /Applications/XAMPP/xamppfiles/htdocs/imogen/wp-content/themes/fr-starter-theme/resources/views/components/cta-button.blade.php ENDPATH**/ ?>
